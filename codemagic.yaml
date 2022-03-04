@@ -1,10 +1,10 @@
 workflows:
   example-workflow:
-    name: Example Workflow
+    name: 3DObject Workflow
     scripts:
-      - name: Step name
+      - name: CICD Started
         script: echo "Hello Codemagician!"
     publishing:
       email:
         recipients:
-          - codemagic@example.com
+          - yashpatel49000@gmail.com
