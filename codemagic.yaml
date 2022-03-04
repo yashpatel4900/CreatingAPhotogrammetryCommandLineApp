@@ -5,7 +5,7 @@ workflows:
       - name: CICD Started
         script: echo "Hello Codemagician!"
       - name: Build project
-        script: xcodebuild build -workspace "HelloPhotogrammetry.xcodeproj" -scheme "MyScheme" CODE_SIGN_INDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO
+        script: xcodebuild build -project "HelloPhotogrammetry.xcodeproj" -scheme "MyScheme" CODE_SIGN_INDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO
     publishing:
       email:
         recipients:
