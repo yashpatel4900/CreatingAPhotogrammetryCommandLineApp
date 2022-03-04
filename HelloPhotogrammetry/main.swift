@@ -53,10 +53,10 @@ struct HelloPhotogrammetry: ParsableCommand {
         abstract: "Reconstructs 3D USDZ model from a folder of images.")
     
     @Argument(help: "The local input file folder of images.")
-    private var inputFolder: String
+    private var inputFolder: String = "/Users/yashpatel/Work/Datasets/Krishna"
     
     @Argument(help: "Full path to the USDZ output file.")
-    private var outputFilename: String
+    private var outputFilename: String = "/Users/yashpatel/Work/Datasets/KrishnaOutput"
     
     @Option(name: .shortAndLong,
             parsing: .next,

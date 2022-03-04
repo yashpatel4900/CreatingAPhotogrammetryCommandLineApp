@@ -1,0 +1,10 @@
+workflows:
+  example-workflow:
+    name: Example Workflow
+    scripts:
+      - name: Step name
+        script: echo "Hello Codemagician!"
+    publishing:
+      email:
+        recipients:
+          - codemagic@example.com
