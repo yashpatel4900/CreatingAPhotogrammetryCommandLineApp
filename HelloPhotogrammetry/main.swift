@@ -56,7 +56,7 @@ struct HelloPhotogrammetry: ParsableCommand {
     private var inputFolder: String = "./Krishna"
     
     @Argument(help: "Full path to the USDZ output file.")
-    private var outputFilename: String = "./KrishnaOutput"
+    private var outputFilename: String = "./"
     
     @Option(name: .shortAndLong,
             parsing: .next,
