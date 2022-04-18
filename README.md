@@ -2,6 +2,14 @@
 
 Generate 3D objects from images using RealityKit Object Capture.
 
+## About Algorithm 
+
+- This swift scripts using RealityKit library to start a Photogrammetry Session.
+- Once the input images are assigned to the session it will detect the object from the pictures rather than positioning the camera in the environment.
+- As the object gets detected, the algorithm extracts the features of the object from all its viewing points.
+- This features gets constucted in the 3D model.
+
+
 ## Overview
 
 - Click 50-60 pictures of the object which needs to be converted in a 3D model.
