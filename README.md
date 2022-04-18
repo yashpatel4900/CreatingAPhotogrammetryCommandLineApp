@@ -21,3 +21,7 @@ Generate 3D objects from images using RealityKit Object Capture.
 - Once, everything is ready run the project.
 - In 5-10 minutes your 3D model will be generated and saved to your output folder.
 - Output files will be in two formats - one will be in .obj file with its textures saved as .mtl and the other one will be in .usdz file format.
+
+## Video Tutorial
+
+- You can find a video tutorial on how to use this algorithm to generate 3D objects from images showing execution of all the above steps - https://drive.google.com/file/d/1dEor7npa9YabBfCe3CyCO57_fpMEByh2/view?usp=sharing
