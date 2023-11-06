@@ -3,6 +3,10 @@
 Generate 3D objects from images using RealityKit Object Capture.
 
 Input
+![IMG_7848](https://github.com/yashpatel4900/CreatingAPhotogrammetryCommandLineApp/assets/62371168/aefb2743-0510-4f00-9b6b-50ff73fd3e73)
+
+
+Output
 <img width="629" alt="3D Object" src="https://github.com/yashpatel4900/CreatingAPhotogrammetryCommandLineApp/assets/62371168/52f8b2f8-ea26-450c-b44f-c6cb89ba4123">
 
 
