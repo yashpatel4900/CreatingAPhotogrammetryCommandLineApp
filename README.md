@@ -3,9 +3,10 @@
 Generate 3D objects from images using RealityKit Object Capture.
 
 Input
-<img src="[https://your-image-url.type](https://github.com/yashpatel4900/CreatingAPhotogrammetryCommandLineApp/assets/62371168/aefb2743-0510-4f00-9b6b-50ff73fd3e73)" width="300">
+<img src="https://your-image-url.type](https://github.com/yashpatel4900/CreatingAPhotogrammetryCommandLineApp/assets/62371168/aefb2743-0510-4f00-9b6b-50ff73fd3e73" width="300">
 
 Output
+
 <img width="300" alt="3D Object" src="https://github.com/yashpatel4900/CreatingAPhotogrammetryCommandLineApp/assets/62371168/52f8b2f8-ea26-450c-b44f-c6cb89ba4123">
 
 
